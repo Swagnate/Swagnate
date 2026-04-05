@@ -2,7 +2,7 @@
 
 # 
 
-# Backend developer focused on Python/Django and real-world systems.
+# Backend developer working with Python/Django and real-world systems.
 
 # 
 
@@ -40,9 +40,7 @@
 
 # \* Python, Django, DRF
 
-# \* Celery, Redis
-
-# \* Docker
+# \* Celery, Redis, Docker
 
 # \* pytest
 
@@ -93,22 +91,6 @@
 # \* Work on complex systems and high-load services
 
 # \* Move to fully remote environment
-
-# 
-
-# \---
-
-# 
-
-# \## 📫 Contact
-
-# 
-
-# \* GitHub: https://github.com/Swagnate
-
-# 
-
-# \---
 
 
 
